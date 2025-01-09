@@ -9,7 +9,7 @@ The Stegano program allows hiding messages or files within images using steganog
 ## Preview
 A preview of the process for hiding and extracting a secret message from an image.
 
-![0109](https://github.com/user-attachments/assets/fca1c3ea-fe3b-4b25-a20d-35d789091ed2 =500x)
+![0109](https://github.com/user-attachments/assets/fca1c3ea-fe3b-4b25-a20d-35d789091ed2)
 
 ## Features
 The program offers 4 main features:
