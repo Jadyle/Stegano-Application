@@ -4,7 +4,7 @@
 - **Lina Rashdan**
 
 ## Description
-The Stegano program allows hiding messages or files within images using steganography techniques. It supports RGB and RGBA formats for encoding messages and files. The program uses the **Least Significant Bit (LSB)** technique to ensure that the integration of data remains discrete and does not alter the visual quality of the image. A graphical user interface is available, and an executable file is provided.
+The Stegano program allows hiding messages or files within images using steganography techniques. It supports RGB and RGBA formats for encoding messages and files. The program uses the **Least Significant Bit (LSB)** technique to ensure that the integration of data remains discrete and does not alter the visual quality of the image. A graphical user interface is available.
 
 ## Preview
 A preview of the process for hiding and extracting a secret message from an image.
